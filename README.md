@@ -96,7 +96,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 * [Resources](#resources)
 * [License](#license)
 
-## Applications
+## 应用 Applications
 
 See also [Rust — Production](https://www.rust-lang.org/production)(organizations running Rust in production).
 
